@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.18 (TeX Live 2017/Arch Linux) (preloaded format=pdflatex 2017.11.27)  18 DEC 2017 23:53
+This is pdfTeX, Version 3.14159265-2.6-1.40.18 (TeX Live 2017/Arch Linux) (preloaded format=pdflatex 2017.11.27)  19 DEC 2017 01:12
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1711,41 +1711,41 @@ e 74.
 <images/las1.pdf, id=146, pagebox=cropbox, 88.77667pt x 67.23218pt>
 File: images/las1.pdf Graphic file (type pdf)
 <use images/las1.pdf>
-Package pdftex.def Info: images/las1.pdf  used on input line 98. on input line 
-98.
-Package pdftex.def Info: Requested size: 100.7238pt x 76.2823pt on input line 9
-8.
+Package pdftex.def Info: images/las1.pdf  used on input line 105. on input line
+ 105.
+Package pdftex.def Info: Requested size: 100.7238pt x 76.2823pt on input line 1
+05.
  [5
 
  <./images/las1.pdf>]
-LaTeX Font Info:    Try loading font information for U+msa on input line 125.
+LaTeX Font Info:    Try loading font information for U+msa on input line 132.
 
 (/usr/share/texmf-dist/tex/latex/amsfonts/umsa.fd
 File: umsa.fd 2013/01/14 v3.01 AMS symbols A
 )
-LaTeX Font Info:    Try loading font information for U+msb on input line 125.
+LaTeX Font Info:    Try loading font information for U+msb on input line 132.
 
 (/usr/share/texmf-dist/tex/latex/amsfonts/umsb.fd
 File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 )
 LaTeX Font Info:    Try loading font information for OT1+mathkerncmss on input 
-line 125.
+line 132.
 
 (/usr/share/texmf-dist/tex/latex/sansmathaccent/ot1mathkerncmss.fd
 File: ot1mathkerncmss.fd 2013/03/27 Fontinst v1.933 font definitions for OT1/ma
 thkerncmss.
 )
-LaTeX Font Info:    Try loading font information for OMS+cmss on input line 125
+LaTeX Font Info:    Try loading font information for OMS+cmss on input line 132
 .
-LaTeX Font Info:    No file OMScmss.fd. on input line 125.
+LaTeX Font Info:    No file OMScmss.fd. on input line 132.
 
 
 LaTeX Font Warning: Font shape `OMS/cmss/m/n' undefined
 (Font)              using `OMS/cmsy/m/n' instead
-(Font)              for symbol `textbullet' on input line 125.
+(Font)              for symbol `textbullet' on input line 132.
 
 
-Overfull \hbox (5.91888pt too wide) in paragraph at lines 125--125
+Overfull \hbox (5.91888pt too wide) in paragraph at lines 132--132
 [][]  
  []
 
@@ -1757,51 +1757,51 @@ Overfull \hbox (5.91888pt too wide) in paragraph at lines 125--125
 <images/3nd.pdf, id=174, pagebox=cropbox, 104.69012pt x 135.53636pt>
 File: images/3nd.pdf Graphic file (type pdf)
 <use images/3nd.pdf>
-Package pdftex.def Info: images/3nd.pdf  used on input line 162. on input line 
-162.
+Package pdftex.def Info: images/3nd.pdf  used on input line 169. on input line 
+169.
 Package pdftex.def Info: Requested size: 104.68985pt x 135.53601pt on input lin
-e 162.
+e 169.
 <images/4nd.pdf, id=175, pagebox=cropbox, 104.69012pt x 135.53636pt>
 File: images/4nd.pdf Graphic file (type pdf)
 <use images/4nd.pdf>
-Package pdftex.def Info: images/4nd.pdf  used on input line 162. on input line 
-162.
+Package pdftex.def Info: images/4nd.pdf  used on input line 169. on input line 
+169.
 Package pdftex.def Info: Requested size: 104.68985pt x 135.53601pt on input lin
-e 162.
+e 169.
  [8
 
  <./images/3nd.pdf> <./images/4nd.pdf>]
 <images/resonator.pdf, id=203, pagebox=cropbox, 241.87062pt x 86.97192pt>
 File: images/resonator.pdf Graphic file (type pdf)
 <use images/resonator.pdf>
-Package pdftex.def Info: images/resonator.pdf  used on input line 177. on input
- line 177.
+Package pdftex.def Info: images/resonator.pdf  used on input line 184. on input
+ line 184.
 Package pdftex.def Info: Requested size: 241.87001pt x 86.9717pt on input line 
-177.
+184.
  [9
 
  <./images/resonator.pdf>]
 <images/rot_flip.pdf, id=213, pagebox=cropbox, 76.85915pt x 30.61037pt>
 File: images/rot_flip.pdf Graphic file (type pdf)
 <use images/rot_flip.pdf>
-Package pdftex.def Info: images/rot_flip.pdf  used on input line 221. on input 
-line 221.
+Package pdftex.def Info: images/rot_flip.pdf  used on input line 228. on input 
+line 228.
 Package pdftex.def Info: Requested size: 76.85895pt x 30.61028pt on input line 
-221.
+228.
 <images/pockels_cell.pdf, id=214, pagebox=cropbox, 92.87097pt x 28.8528pt>
 File: images/pockels_cell.pdf Graphic file (type pdf)
 <use images/pockels_cell.pdf>
-Package pdftex.def Info: images/pockels_cell.pdf  used on input line 221. on in
-put line 221.
+Package pdftex.def Info: images/pockels_cell.pdf  used on input line 228. on in
+put line 228.
 Package pdftex.def Info: Requested size: 92.87073pt x 28.85272pt on input line 
-221.
+228.
 <images/pogl.pdf, id=215, pagebox=cropbox, 64.41867pt x 28.8528pt>
 File: images/pogl.pdf Graphic file (type pdf)
 <use images/pogl.pdf>
-Package pdftex.def Info: images/pogl.pdf  used on input line 221. on input line
- 221.
+Package pdftex.def Info: images/pogl.pdf  used on input line 228. on input line
+ 228.
 Package pdftex.def Info: Requested size: 64.4185pt x 28.85272pt on input line 2
-21.
+28.
 
 [10
 
@@ -1809,10 +1809,10 @@ Package pdftex.def Info: Requested size: 64.4185pt x 28.85272pt on input line 2
 <images/aom.pdf, id=230, pagebox=cropbox, 235.41551pt x 119.93909pt>
 File: images/aom.pdf Graphic file (type pdf)
 <use images/aom.pdf>
-Package pdftex.def Info: images/aom.pdf  used on input line 233. on input line 
-233.
+Package pdftex.def Info: images/aom.pdf  used on input line 240. on input line 
+240.
 Package pdftex.def Info: Requested size: 235.41493pt x 119.93878pt on input lin
-e 233.
+e 240.
 
 [11
 
@@ -1820,65 +1820,61 @@ e 233.
 <images/chem.pdf, id=240, pagebox=cropbox, 371.45073pt x 101.90472pt>
 File: images/chem.pdf Graphic file (type pdf)
 <use images/chem.pdf>
-Package pdftex.def Info: images/chem.pdf  used on input line 255. on input line
- 255.
+Package pdftex.def Info: images/chem.pdf  used on input line 262. on input line
+ 262.
 Package pdftex.def Info: Requested size: 335.74263pt x 92.11145pt on input line
- 255.
+ 262.
  [12
 
- <./images/chem.pdf>] [13
+ <./images/chem.pdf>]
+<images/fil.pdf, id=256, pagebox=cropbox, 225.05882pt x 113.26416pt>
+File: images/fil.pdf Graphic file (type pdf)
+<use images/fil.pdf>
+Package pdftex.def Info: images/fil.pdf  used on input line 291. on input line 
+291.
+Package pdftex.def Info: Requested size: 225.05826pt x 113.26387pt on input lin
+e 291.
+ [13
 
-]
-<img/PI.pdf, id=262, pagebox=cropbox, 340.50513pt x 224.95644pt>
+ <./images/fil.pdf>]
+<img/PI.pdf, id=267, pagebox=cropbox, 340.50513pt x 224.95644pt>
 File: img/PI.pdf Graphic file (type pdf)
 <use img/PI.pdf>
-Package pdftex.def Info: img/PI.pdf  used on input line 268. on input line 268.
+Package pdftex.def Info: img/PI.pdf  used on input line 299. on input line 299.
 
-Package pdftex.def Info: Requested size: 340.50429pt x 224.95587pt on input lin
-e 268.
-
-Overfull \hbox (4.76166pt too wide) in paragraph at lines 268--268
- [] 
- []
-
-
-Overfull \vbox (18.92245pt too high) detected at line 268
- []
+Package pdftex.def Info: Requested size: 302.1663pt x 199.62704pt on input line
+ 299.
 
 [14
 
  <./img/PI.pdf>] [15
 
 ]
-<img/P2I.pdf, id=292, pagebox=cropbox, 341.0592pt x 183.4333pt>
+<img/P2I.pdf, id=297, pagebox=cropbox, 341.0592pt x 183.4333pt>
 File: img/P2I.pdf Graphic file (type pdf)
 <use img/P2I.pdf>
-Package pdftex.def Info: img/P2I.pdf  used on input line 281. on input line 281
+Package pdftex.def Info: img/P2I.pdf  used on input line 312. on input line 312
 .
 Package pdftex.def Info: Requested size: 341.05836pt x 183.43285pt on input lin
-e 281.
+e 312.
 
-Overfull \hbox (5.31573pt too wide) in paragraph at lines 281--281
+Overfull \hbox (5.31573pt too wide) in paragraph at lines 312--312
  [] 
  []
 
 [16
 
  <./img/P2I.pdf>]
-File: img/P2I.pdf Graphic file (type pdf)
-<use img/P2I.pdf>
-Package pdftex.def Info: img/P2I.pdf  used on input line 289. on input line 289
+<img/P2P.pdf, id=323, pagebox=cropbox, 335.81662pt x 274.23254pt>
+File: img/P2P.pdf Graphic file (type pdf)
+<use img/P2P.pdf>
+Package pdftex.def Info: img/P2P.pdf  used on input line 320. on input line 320
 .
-Package pdftex.def Info: Requested size: 341.05836pt x 183.43285pt on input lin
-e 289.
+Package pdftex.def Info: Requested size: 235.01881pt x 191.91962pt on input lin
+e 320.
+ [17
 
-Overfull \hbox (5.31573pt too wide) in paragraph at lines 289--289
- [] 
- []
-
-[17
-
-] [18
+ <./img/P2P.pdf>] [18
 
 ] [19
 
@@ -1892,26 +1888,26 @@ Overfull \hbox (5.31573pt too wide) in paragraph at lines 289--289
 \tf@snm=\write8
 \openout8 = `report.snm'.
 
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 321.
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 321.
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 347.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 347.
  (./report.aux)
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 321.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 321.
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 347.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 347.
 Package rerunfilecheck Info: File `report.out' has not changed.
-(rerunfilecheck)             Checksum: 0375A6051DDFEE1A65A03C0FBBEAE41A;4847.
+(rerunfilecheck)             Checksum: C13DDB94D3A4393EE3539357F51796DE;4847.
 
 
 LaTeX Font Warning: Some font shapes were not available, defaults substituted.
 
  ) 
 Here is how much of TeX's memory you used:
- 35896 strings out of 492985
- 808408 string characters out of 6138637
- 994291 words of memory out of 5000000
- 38647 multiletter control sequences out of 15000+600000
+ 35905 strings out of 492985
+ 808605 string characters out of 6138637
+ 993290 words of memory out of 5000000
+ 38655 multiletter control sequences out of 15000+600000
  15629 words of font info for 38 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 79i,11n,131p,812b,645s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 79i,11n,131p,814b,645s stack positions out of 5000i,500n,10000p,200000b,80000s
 {/usr/share/texmf-dist/fonts/enc/dvips/cm-super/cm-super-t2a.enc}</usr/share/
 texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb></usr/share/texmf-dist/fon
 ts/type1/public/amsfonts/cm/cmr10.pfb></usr/share/texmf-dist/fonts/type1/public
@@ -1925,10 +1921,10 @@ sr/share/texmf-dist/fonts/type1/public/cm-super/sfss2488.pfb></usr/share/texmf-
 dist/fonts/type1/public/cm-super/sfsx0800.pfb></usr/share/texmf-dist/fonts/type
 1/public/cm-super/sfsx1000.pfb></usr/share/texmf-dist/fonts/type1/public/cm-sup
 er/sfsx1440.pfb>
-Output written on report.pdf (19 pages, 222469 bytes).
+Output written on report.pdf (19 pages, 234657 bytes).
 PDF statistics:
- 388 PDF objects out of 1000 (max. 8388607)
- 319 compressed objects within 4 object streams
+ 414 PDF objects out of 1000 (max. 8388607)
+ 339 compressed objects within 4 object streams
  57 named destinations out of 1000 (max. 500000)
- 264 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 274 words of extra memory for PDF output out of 10000 (max. 10000000)
 
