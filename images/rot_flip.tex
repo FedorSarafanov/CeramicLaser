@@ -3,7 +3,7 @@
 \usepackage[english,russian]{babel}
 \usepackage[T2A,T1]{fontenc}
 \usepackage[utf8]{inputenc}
-
+\usetikzlibrary{fit}
 \usepackage
     {
         tikz,
@@ -43,51 +43,34 @@
 %     	\draw (\i,0) node [below] {\i};
 %     }
 
-    % resonator
-    \draw [fill=black!\darkness] (5,0) rectangle ++(0.25,1);
-    \coordinate (res-right-right) at (5.25,0.5);
-    \coordinate (res-right-left) at (5,0.5);
-    \coordinate (res-right) at (5.12,0.5);    
 
 
-    \draw [fill=black!10] (3,0) rectangle ++(-0.25,1);
-    \coordinate (res-left-left) at (2.75,0.5);
-    \coordinate (res-left-right) at (3,0.5);    
-    \coordinate (res-left) at (2.87,0.5);    
+    \node[fit={(5,0) (5.25,1)}, inner sep=0pt, draw=black] (res2) {};
 
-    \coordinate (pol1) at (0.5,0.5);    
-    \coordinate (pol2) at (0.5,2.5);    
+    \node[fit={(3-0.25,0) (3,1)}, inner sep=0pt, draw=black] (res1) {};
+
+    \node[fit={(5,0) (5.25,1)}, rotate around={-25:(res2.west)}, inner sep=0pt, draw=black, dashed] (res2) {};
+
+    \draw[magenta, line width=1pt, dashed] (res2.west) -- ++(90+25:.53);
 
     % forward wave
-    \draw[line width=2pt,magenta] 
+    \draw[line width=1pt,magenta] 
+        (res1.east) -- (res2.west)
     	% (LAS1-left) -- (res-right-right)
-    	(res-right-left) -- (res-left-right)
-    	(res-right-right) -- ++(0.5,0)
+    	% (res-right-left) -- (res-left-right)
+    	% (res-right-right) -- ++(0.5,0)
     	% (res-left-left) -- (pol1) 
     	% (pol1) -- ++ (-2,0) node [left, black] {накачка}
     ;
 
     % environment 
     \draw[fill=magenta!65, opacity=0.5] (3.7, 0.2) rectangle (4.3,0.8);
-    \coordinate (env) at (4,0.5);
-
-    %caption
-
-    % \draw (pol1) node [left, yshift=-1em] {$4a$};
-    % \draw (pol2) node [right, yshift=1em] {$4b$};
-
-    \draw (res-right) node [ yshift=2em] {$4$};
-    \draw (res-left) node [ yshift=2em] {$3$}; 
-
-    \draw (env) node [yshift=2em] {$1$};    
-    % \draw (LAS1) node [yshift=2em] {$1$};    
-    % \draw (CAM1) node [yshift=2em] {$5$};    
 
 	\foreach \i in {3.8,3.9,...,4.2} {
-    	\draw[red,->] (\i-0.5,-0.5) -- (\i,0.2);
+    	\draw[red,->] (\i-0.1,-0) -- (\i,0.2);
     }    
 
-    \node (a) at (3.5,-0.7) {2};
+    % \node (a) at (3.5,-0.7) {};
 
 \end{tikzpicture} 
 \end{document}
