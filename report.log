@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.18 (TeX Live 2017/Arch Linux) (preloaded format=pdflatex 2017.11.27)  24 DEC 2017 15:20
+This is pdfTeX, Version 3.14159265-2.6-1.40.18 (TeX Live 2017/Arch Linux) (preloaded format=pdflatex 2017.11.27)  24 DEC 2017 23:18
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1833,69 +1833,61 @@ Package pdftex.def Info: images/fil.pdf  used on input line 349. on input line
 349.
 Package pdftex.def Info: Requested size: 225.05826pt x 113.26387pt on input lin
 e 349.
-<photo/light.jpg, id=266, 3058.42625pt x 1695.33376pt>
-File: photo/light.jpg Graphic file (type jpg)
-<use photo/light.jpg>
-Package pdftex.def Info: photo/light.jpg  used on input line 349. on input line
- 349.
-Package pdftex.def Info: Requested size: 100.7238pt x 55.8246pt on input line 3
-49.
 
 [12
 
- <./images/fil.pdf> <./photo/light.jpg>]
-<img/PI.pdf, id=276, pagebox=cropbox, 340.50513pt x 224.95644pt>
+ <./images/fil.pdf>]
+<img/PI.pdf, id=275, pagebox=cropbox, 341.04012pt x 244.31978pt>
 File: img/PI.pdf Graphic file (type pdf)
 <use img/PI.pdf>
 Package pdftex.def Info: img/PI.pdf  used on input line 357. on input line 357.
 
-Package pdftex.def Info: Requested size: 302.1663pt x 199.62704pt on input line
+Package pdftex.def Info: Requested size: 302.1663pt x 216.47462pt on input line
  357.
  [13
 
  <./img/PI.pdf>]
-<photo/s2.jpg, id=300, 2947.01pt x 1405.25pt>
-File: photo/s2.jpg Graphic file (type jpg)
-<use photo/s2.jpg>
-Package pdftex.def Info: photo/s2.jpg  used on input line 392. on input line 39
-2.
+<photo/s.jpg, id=299, 2947.01pt x 1405.25pt>
+File: photo/s.jpg Graphic file (type jpg)
+<use photo/s.jpg>
+Package pdftex.def Info: photo/s.jpg  used on input line 392. on input line 392
+.
 Package pdftex.def Info: Requested size: 211.51949pt x 100.84341pt on input lin
 e 392.
-<photo/ke2.jpg, id=301, 392.21532pt x 295.1025pt>
-File: photo/ke2.jpg Graphic file (type jpg)
-<use photo/ke2.jpg>
-Package pdftex.def Info: photo/ke2.jpg  used on input line 392. on input line 3
-92.
+<photo/ke.jpg, id=300, 392.21532pt x 295.1025pt>
+File: photo/ke.jpg Graphic file (type jpg)
+<use photo/ke.jpg>
+Package pdftex.def Info: photo/ke.jpg  used on input line 392. on input line 39
+2.
 Package pdftex.def Info: Requested size: 134.295pt x 101.04497pt on input line 
 392.
  [14
 
- <./photo/s2.jpg> <./photo/ke2.jpg>]
-<img/P2I2.pdf, id=309, pagebox=cropbox, 341.0592pt x 183.4333pt>
+ <./photo/s.jpg> <./photo/ke.jpg>]
+<img/P2I2.pdf, id=308, pagebox=cropbox, 344.93466pt x 280.19481pt>
 File: img/P2I2.pdf Graphic file (type pdf)
 <use img/P2I2.pdf>
 Package pdftex.def Info: img/P2I2.pdf  used on input line 400. on input line 40
 0.
-Package pdftex.def Info: Requested size: 341.05836pt x 183.43285pt on input lin
+Package pdftex.def Info: Requested size: 269.70586pt x 219.08301pt on input lin
 e 400.
 
-Overfull \hbox (5.31573pt too wide) in paragraph at lines 400--400
- [] 
+Overfull \vbox (1.04959pt too high) detected at line 400
  []
 
 [15
 
  <./img/P2I2.pdf>]
-<img/P2P.pdf, id=331, pagebox=cropbox, 335.81662pt x 274.23254pt>
-File: img/P2P.pdf Graphic file (type pdf)
-<use img/P2P.pdf>
-Package pdftex.def Info: img/P2P.pdf  used on input line 408. on input line 408
-.
-Package pdftex.def Info: Requested size: 235.01881pt x 191.91962pt on input lin
+<img/P2P1.pdf, id=330, pagebox=cropbox, 343.55252pt x 280.18578pt>
+File: img/P2P1.pdf Graphic file (type pdf)
+<use img/P2P1.pdf>
+Package pdftex.def Info: img/P2P1.pdf  used on input line 408. on input line 40
+8.
+Package pdftex.def Info: Requested size: 245.09068pt x 199.88667pt on input lin
 e 408.
  [16
 
- <./img/P2P.pdf>] [17
+ <./img/P2P1.pdf>] [17
 
 ] [18
 
@@ -1918,10 +1910,10 @@ Package rerunfilecheck Info: File `report.out' has not changed.
 (rerunfilecheck)             Checksum: 77A47F6E227BC7C1FFA3182BB6836028;4579.
  ) 
 Here is how much of TeX's memory you used:
- 35915 strings out of 492985
- 808776 string characters out of 6138637
+ 35910 strings out of 492985
+ 808683 string characters out of 6138637
  993291 words of memory out of 5000000
- 38662 multiletter control sequences out of 15000+600000
+ 38658 multiletter control sequences out of 15000+600000
  15629 words of font info for 38 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  79i,11n,131p,814b,659s stack positions out of 5000i,500n,10000p,200000b,80000s
@@ -1940,10 +1932,10 @@ dist/fonts/type1/public/cm-super/sfss1200.pfb></usr/share/texmf-dist/fonts/type
 er/sfss2488.pfb></usr/share/texmf-dist/fonts/type1/public/cm-super/sfsx0800.pfb
 ></usr/share/texmf-dist/fonts/type1/public/cm-super/sfsx1000.pfb></usr/share/te
 xmf-dist/fonts/type1/public/cm-super/sfsx1440.pfb>
-Output written on report.pdf (18 pages, 1868096 bytes).
+Output written on report.pdf (18 pages, 1440893 bytes).
 PDF statistics:
- 425 PDF objects out of 1000 (max. 8388607)
- 344 compressed objects within 4 object streams
+ 420 PDF objects out of 1000 (max. 8388607)
+ 341 compressed objects within 4 object streams
  54 named destinations out of 1000 (max. 500000)
- 291 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 286 words of extra memory for PDF output out of 10000 (max. 10000000)
 

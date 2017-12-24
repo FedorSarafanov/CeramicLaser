@@ -1,8 +1,8 @@
 PWD /home/lab/1_УНЭ/laser2/img
 INPUT /usr/share/texmf-dist/web2c/texmf.cnf
 INPUT /var/lib/texmf/web2c/pdftex/pdflatex.fmt
-INPUT PI.tex
-OUTPUT PI.log
+INPUT P2P1.tex
+OUTPUT P2P1.log
 INPUT /usr/share/texmf-dist/tex/latex/standalone/standalone.cls
 INPUT /usr/share/texmf-dist/tex/latex/standalone/standalone.cls
 INPUT /usr/share/texmf-dist/tex/generic/oberdiek/ifluatex.sty
@@ -138,7 +138,7 @@ INPUT /usr/share/texmf-dist/tex/latex/cyrillic/t2acmr.fd
 INPUT /usr/share/texmf-dist/fonts/map/fontname/texfonts.map
 INPUT /home/lab/.texlive/texmf-var/fonts/tfm/lh/lh-t2a/larm1000.tfm
 INPUT /usr/share/texmf-dist/tex/latex/cmap/t2a.cmap
-OUTPUT PI.pdf
+OUTPUT P2P1.pdf
 INPUT /usr/share/texmf-dist/tex/latex/cmap/t2a.cmap
 INPUT /usr/share/texmf-dist/tex/latex/base/inputenc.sty
 INPUT /usr/share/texmf-dist/tex/latex/base/inputenc.sty
@@ -211,9 +211,9 @@ INPUT /usr/share/texmf-dist/tex/generic/pgfplots/numtable/pgfplotstable.code.tex
 INPUT /usr/share/texmf-dist/tex/generic/pgfplots/numtable/pgfplotstable.coltype.code.tex
 INPUT /usr/share/texmf-dist/tex/latex/tools/array.sty
 INPUT /usr/share/texmf-dist/tex/latex/tools/array.sty
-INPUT PI.aux
-INPUT PI.aux
-OUTPUT PI.aux
+INPUT P2P1.aux
+INPUT P2P1.aux
+OUTPUT P2P1.aux
 INPUT /usr/share/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
 INPUT /usr/share/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
 INPUT /usr/share/texmf-dist/tex/latex/oberdiek/epstopdf-base.sty
@@ -238,8 +238,7 @@ INPUT /usr/share/texmf-dist/tex/latex/latexconfig/epstopdf-sys.cfg
 INPUT /usr/share/texmf-dist/tex/latex/latexconfig/epstopdf-sys.cfg
 INPUT /usr/share/texmf-dist/tex/latex/ucs/ucsencs.def
 INPUT /usr/share/texmf-dist/tex/latex/ucs/ucsencs.def
-INPUT P.tsv
-INPUT P_lin.tsv
+INPUT P2I2.tsv
 INPUT /usr/share/texmf-dist/tex/latex/cmap/ot1.cmap
 INPUT /usr/share/texmf-dist/tex/latex/cmap/ot1.cmap
 INPUT /usr/share/texmf-dist/tex/latex/mmap/oml.cmap
@@ -251,9 +250,9 @@ INPUT /usr/share/texmf-dist/tex/latex/mmap/omx.cmap
 INPUT /usr/share/texmf-dist/tex/latex/ucs/data/uni-4.def
 INPUT /usr/share/texmf-dist/tex/latex/ucs/data/uni-4.def
 INPUT /var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map
-INPUT PI.aux
+INPUT P2P1.aux
 INPUT /usr/share/texmf-dist/fonts/enc/dvips/cm-super/cm-super-t2a.enc
 INPUT /usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb
 INPUT /usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb
-INPUT /usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb
+INPUT /usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmr7.pfb
 INPUT /usr/share/texmf-dist/fonts/type1/public/cm-super/sfrm1000.pfb

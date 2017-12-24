@@ -1,6 +1,6 @@
 # Fdb version 3
-["pdflatex"] 1511804812 "PI.tex" "PI.pdf" "PI" 1511804813
-  "/dev/null" 1511799679 0 d41d8cd98f00b204e9800998ecf8427e ""
+["pdflatex"] 1514142048 "PI.tex" "PI.pdf" "PI" 1514142049
+  "/dev/null" 1514129146 0 d41d8cd98f00b204e9800998ecf8427e ""
   "/home/lab/.texlive/texmf-var/fonts/tfm/lh/lh-t2a/larm1000.tfm" 1480795085 3220 0e417eaf233b160335902e97259a6c77 ""
   "/usr/share/texmf-dist/fonts/enc/dvips/cm-super/cm-super-t2a.enc" 1510784331 3141 82d5616418ed8d5de703b3951bedecb4 ""
   "/usr/share/texmf-dist/fonts/map/fontname/texfonts.map" 1510784337 3287 e6b82fe08f5336d4d5ebc73fb1152e87 ""
@@ -161,13 +161,13 @@
   "/usr/share/texmf-dist/tex/latex/xcolor/xcolor.sty" 1510784348 55589 34128738f682d033422ca125f82e5d62 ""
   "/usr/share/texmf-dist/tex/latex/xkeyval/xkeyval.sty" 1510784348 4962 9c1069474ff71dbc47d5006555e352d3 ""
   "/usr/share/texmf-dist/web2c/texmf.cnf" 1510784374 32585 d82bbcf7626b7842c87671687479e852 ""
-  "/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map" 1511799017 2356636 1c5a77d76ba8081d4c64a27f91861c01 ""
+  "/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map" 1513507523 2407194 247758735f893dc2d44705acf59a8eba ""
   "/var/lib/texmf/web2c/pdftex/pdflatex.fmt" 1511798989 7736839 543933ccc960ea85f0c1e72592f655ba ""
   "P.tsv" 1511802856 1023 099f40f13eaf393f49bf2e6e1b48d937 ""
-  "PI.aux" 1511804813 8 a94a2480d3289e625eea47cd1b285758 ""
-  "PI.tex" 1511804812 1675 a282f4c8f170ad4d40d278086537c6ea ""
+  "PI.aux" 1514142049 8 a94a2480d3289e625eea47cd1b285758 ""
+  "PI.tex" 1514142048 1736 3f823a45fe552fc15bc4db0981e04bae ""
   "P_lin.tsv" 1511804174 641 492889a9543a4671094322f7330f0370 ""
   (generated)
-  "PI.log"
   "PI.aux"
+  "PI.log"
   "PI.pdf"
