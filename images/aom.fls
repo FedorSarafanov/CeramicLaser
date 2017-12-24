@@ -271,6 +271,8 @@ INPUT /usr/share/texmf-dist/tex/generic/oberdiek/pdftexcmds.sty
 INPUT /usr/share/texmf-dist/tex/generic/oberdiek/pdftexcmds.sty
 INPUT /usr/share/texmf-dist/tex/latex/latexconfig/epstopdf-sys.cfg
 INPUT /usr/share/texmf-dist/tex/latex/latexconfig/epstopdf-sys.cfg
+INPUT setka.tex
+INPUT setka.tex
 INPUT /var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map
 INPUT aom.aux
 INPUT /usr/share/texmf-dist/fonts/enc/dvips/cm-super/cm-super-t2a.enc

@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.18 (TeX Live 2017/Arch Linux) (preloaded format=pdflatex 2017.11.27)  19 DEC 2017 01:12
+This is pdfTeX, Version 3.14159265-2.6-1.40.18 (TeX Live 2017/Arch Linux) (preloaded format=pdflatex 2017.11.27)  24 DEC 2017 15:20
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1687,7 +1687,7 @@ s been generated with the most recent feature set (\pgfplotsset{compat=1.15}).
 {/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}] [2
 
 ]
-<images/spont.pdf, id=108, pagebox=cropbox, 258.71657pt x 148.56102pt>
+<images/spont.pdf, id=104, pagebox=cropbox, 258.71657pt x 148.56102pt>
 File: images/spont.pdf Graphic file (type pdf)
 <use images/spont.pdf>
 Package pdftex.def Info: images/spont.pdf  used on input line 63. on input line
@@ -1698,7 +1698,7 @@ e 63.
 [3
 
  <./images/spont.pdf>]
-<images/forced.pdf, id=130, pagebox=cropbox, 258.71657pt x 148.56102pt>
+<images/forced.pdf, id=126, pagebox=cropbox, 258.71657pt x 148.56102pt>
 File: images/forced.pdf Graphic file (type pdf)
 <use images/forced.pdf>
 Package pdftex.def Info: images/forced.pdf  used on input line 74. on input lin
@@ -1708,7 +1708,7 @@ e 74.
  [4
 
  <./images/forced.pdf>]
-<images/las1.pdf, id=146, pagebox=cropbox, 88.77667pt x 67.23218pt>
+<images/las1.pdf, id=142, pagebox=cropbox, 88.77667pt x 67.23218pt>
 File: images/las1.pdf Graphic file (type pdf)
 <use images/las1.pdf>
 Package pdftex.def Info: images/las1.pdf  used on input line 105. on input line
@@ -1718,165 +1718,186 @@ Package pdftex.def Info: Requested size: 100.7238pt x 76.2823pt on input line 1
  [5
 
  <./images/las1.pdf>]
-LaTeX Font Info:    Try loading font information for U+msa on input line 132.
+<photo/las_s.jpg, id=157, 942.52126pt x 1413.28pt>
+File: photo/las_s.jpg Graphic file (type jpg)
+<use photo/las_s.jpg>
+Package pdftex.def Info: photo/las_s.jpg  used on input line 152. on input line
+ 152.
+Package pdftex.def Info: Requested size: 80.57935pt x 120.8065pt on input line 
+152.
+LaTeX Font Info:    Try loading font information for U+msa on input line 152.
 
 (/usr/share/texmf-dist/tex/latex/amsfonts/umsa.fd
 File: umsa.fd 2013/01/14 v3.01 AMS symbols A
 )
-LaTeX Font Info:    Try loading font information for U+msb on input line 132.
+LaTeX Font Info:    Try loading font information for U+msb on input line 152.
 
 (/usr/share/texmf-dist/tex/latex/amsfonts/umsb.fd
 File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 )
 LaTeX Font Info:    Try loading font information for OT1+mathkerncmss on input 
-line 132.
+line 152.
 
 (/usr/share/texmf-dist/tex/latex/sansmathaccent/ot1mathkerncmss.fd
 File: ot1mathkerncmss.fd 2013/03/27 Fontinst v1.933 font definitions for OT1/ma
 thkerncmss.
 )
-LaTeX Font Info:    Try loading font information for OMS+cmss on input line 132
-.
-LaTeX Font Info:    No file OMScmss.fd. on input line 132.
+<photo/las_f.jpg, id=158, 943.525pt x 1415.2875pt>
+File: photo/las_f.jpg Graphic file (type jpg)
+<use photo/las_f.jpg>
+Package pdftex.def Info: photo/las_f.jpg  used on input line 152. on input line
+ 152.
+Package pdftex.def Info: Requested size: 80.57935pt x 120.84853pt on input line
+ 152.
+<photo/las_g.jpg, id=159, 730.73pt x 1096.095pt>
+File: photo/las_g.jpg Graphic file (type jpg)
+<use photo/las_g.jpg>
+Package pdftex.def Info: photo/las_g.jpg  used on input line 152. on input line
+ 152.
+Package pdftex.def Info: Requested size: 80.57935pt x 120.85515pt on input line
+ 152.
 
-
-LaTeX Font Warning: Font shape `OMS/cmss/m/n' undefined
-(Font)              using `OMS/cmsy/m/n' instead
-(Font)              for symbol `textbullet' on input line 132.
-
-
-Overfull \hbox (5.91888pt too wide) in paragraph at lines 132--132
-[][]  
+Overfull \vbox (2.34026pt too high) detected at line 152
  []
 
 [6
 
-] [7
+ <./photo/las_s.jpg> <./photo/las_f.jpg> <./photo/las_g.jpg>] [7
 
 ]
-<images/3nd.pdf, id=174, pagebox=cropbox, 104.69012pt x 135.53636pt>
+<images/3nd.pdf, id=171, pagebox=cropbox, 104.69012pt x 135.53636pt>
 File: images/3nd.pdf Graphic file (type pdf)
 <use images/3nd.pdf>
-Package pdftex.def Info: images/3nd.pdf  used on input line 169. on input line 
-169.
+Package pdftex.def Info: images/3nd.pdf  used on input line 189. on input line 
+189.
 Package pdftex.def Info: Requested size: 104.68985pt x 135.53601pt on input lin
-e 169.
-<images/4nd.pdf, id=175, pagebox=cropbox, 104.69012pt x 135.53636pt>
+e 189.
+<images/4nd.pdf, id=172, pagebox=cropbox, 104.69012pt x 135.53636pt>
 File: images/4nd.pdf Graphic file (type pdf)
 <use images/4nd.pdf>
-Package pdftex.def Info: images/4nd.pdf  used on input line 169. on input line 
-169.
+Package pdftex.def Info: images/4nd.pdf  used on input line 189. on input line 
+189.
 Package pdftex.def Info: Requested size: 104.68985pt x 135.53601pt on input lin
-e 169.
+e 189.
  [8
 
  <./images/3nd.pdf> <./images/4nd.pdf>]
-<images/resonator.pdf, id=203, pagebox=cropbox, 241.87062pt x 86.97192pt>
+<images/resonator.pdf, id=201, pagebox=cropbox, 241.87062pt x 86.97192pt>
 File: images/resonator.pdf Graphic file (type pdf)
 <use images/resonator.pdf>
-Package pdftex.def Info: images/resonator.pdf  used on input line 184. on input
- line 184.
+Package pdftex.def Info: images/resonator.pdf  used on input line 204. on input
+ line 204.
 Package pdftex.def Info: Requested size: 241.87001pt x 86.9717pt on input line 
-184.
+204.
  [9
 
  <./images/resonator.pdf>]
-<images/rot_flip.pdf, id=213, pagebox=cropbox, 76.85915pt x 30.61037pt>
-File: images/rot_flip.pdf Graphic file (type pdf)
-<use images/rot_flip.pdf>
-Package pdftex.def Info: images/rot_flip.pdf  used on input line 228. on input 
-line 228.
-Package pdftex.def Info: Requested size: 76.85895pt x 30.61028pt on input line 
-228.
-<images/pockels_cell.pdf, id=214, pagebox=cropbox, 92.87097pt x 28.8528pt>
-File: images/pockels_cell.pdf Graphic file (type pdf)
-<use images/pockels_cell.pdf>
-Package pdftex.def Info: images/pockels_cell.pdf  used on input line 228. on in
-put line 228.
-Package pdftex.def Info: Requested size: 92.87073pt x 28.85272pt on input line 
-228.
-<images/pogl.pdf, id=215, pagebox=cropbox, 64.41867pt x 28.8528pt>
-File: images/pogl.pdf Graphic file (type pdf)
-<use images/pogl.pdf>
-Package pdftex.def Info: images/pogl.pdf  used on input line 228. on input line
- 228.
-Package pdftex.def Info: Requested size: 64.4185pt x 28.85272pt on input line 2
-28.
-
-[10
-
- <./images/rot_flip.pdf> <./images/pockels_cell.pdf> <./images/pogl.pdf>]
-<images/aom.pdf, id=230, pagebox=cropbox, 235.41551pt x 119.93909pt>
-File: images/aom.pdf Graphic file (type pdf)
-<use images/aom.pdf>
-Package pdftex.def Info: images/aom.pdf  used on input line 240. on input line 
-240.
-Package pdftex.def Info: Requested size: 235.41493pt x 119.93878pt on input lin
-e 240.
-
-[11
-
- <./images/aom.pdf>]
-<images/chem.pdf, id=240, pagebox=cropbox, 371.45073pt x 101.90472pt>
+<images/chem.pdf, id=211, pagebox=cropbox, 371.45073pt x 101.90472pt>
 File: images/chem.pdf Graphic file (type pdf)
 <use images/chem.pdf>
-Package pdftex.def Info: images/chem.pdf  used on input line 262. on input line
- 262.
+Package pdftex.def Info: images/chem.pdf  used on input line 282. on input line
+ 282.
 Package pdftex.def Info: Requested size: 335.74263pt x 92.11145pt on input line
- 262.
- [12
+ 282.
+ [10
 
  <./images/chem.pdf>]
-<images/fil.pdf, id=256, pagebox=cropbox, 225.05882pt x 113.26416pt>
+<images/interf.pdf, id=227, pagebox=cropbox, 143.05847pt x 74.02054pt>
+File: images/interf.pdf Graphic file (type pdf)
+<use images/interf.pdf>
+Package pdftex.def Info: images/interf.pdf  used on input line 307. on input li
+ne 307.
+Package pdftex.def Info: Requested size: 143.0581pt x 74.02034pt on input line 
+307.
+<images/interf2.pdf, id=228, pagebox=cropbox, 143.26323pt x 48.43495pt>
+File: images/interf2.pdf Graphic file (type pdf)
+<use images/interf2.pdf>
+Package pdftex.def Info: images/interf2.pdf  used on input line 307. on input l
+ine 307.
+Package pdftex.def Info: Requested size: 143.26286pt x 48.43481pt on input line
+ 307.
+<images/df.pdf, id=229, pagebox=cropbox, 128.83131pt x 209.25075pt>
+File: images/df.pdf Graphic file (type pdf)
+<use images/df.pdf>
+Package pdftex.def Info: images/df.pdf  used on input line 307. on input line 3
+07.
+Package pdftex.def Info: Requested size: 128.831pt x 209.25023pt on input line 
+307.
+ [11
+
+ <./images/interf.pdf> <./images/interf2.pdf> <./images/df.pdf>]
+<images/fil.pdf, id=265, pagebox=cropbox, 225.05882pt x 113.26416pt>
 File: images/fil.pdf Graphic file (type pdf)
 <use images/fil.pdf>
-Package pdftex.def Info: images/fil.pdf  used on input line 291. on input line 
-291.
+Package pdftex.def Info: images/fil.pdf  used on input line 349. on input line 
+349.
 Package pdftex.def Info: Requested size: 225.05826pt x 113.26387pt on input lin
-e 291.
- [13
+e 349.
+<photo/light.jpg, id=266, 3058.42625pt x 1695.33376pt>
+File: photo/light.jpg Graphic file (type jpg)
+<use photo/light.jpg>
+Package pdftex.def Info: photo/light.jpg  used on input line 349. on input line
+ 349.
+Package pdftex.def Info: Requested size: 100.7238pt x 55.8246pt on input line 3
+49.
 
- <./images/fil.pdf>]
-<img/PI.pdf, id=267, pagebox=cropbox, 340.50513pt x 224.95644pt>
+[12
+
+ <./images/fil.pdf> <./photo/light.jpg>]
+<img/PI.pdf, id=276, pagebox=cropbox, 340.50513pt x 224.95644pt>
 File: img/PI.pdf Graphic file (type pdf)
 <use img/PI.pdf>
-Package pdftex.def Info: img/PI.pdf  used on input line 299. on input line 299.
+Package pdftex.def Info: img/PI.pdf  used on input line 357. on input line 357.
 
 Package pdftex.def Info: Requested size: 302.1663pt x 199.62704pt on input line
- 299.
+ 357.
+ [13
 
-[14
+ <./img/PI.pdf>]
+<photo/s2.jpg, id=300, 2947.01pt x 1405.25pt>
+File: photo/s2.jpg Graphic file (type jpg)
+<use photo/s2.jpg>
+Package pdftex.def Info: photo/s2.jpg  used on input line 392. on input line 39
+2.
+Package pdftex.def Info: Requested size: 211.51949pt x 100.84341pt on input lin
+e 392.
+<photo/ke2.jpg, id=301, 392.21532pt x 295.1025pt>
+File: photo/ke2.jpg Graphic file (type jpg)
+<use photo/ke2.jpg>
+Package pdftex.def Info: photo/ke2.jpg  used on input line 392. on input line 3
+92.
+Package pdftex.def Info: Requested size: 134.295pt x 101.04497pt on input line 
+392.
+ [14
 
- <./img/PI.pdf>] [15
-
-]
-<img/P2I.pdf, id=297, pagebox=cropbox, 341.0592pt x 183.4333pt>
-File: img/P2I.pdf Graphic file (type pdf)
-<use img/P2I.pdf>
-Package pdftex.def Info: img/P2I.pdf  used on input line 312. on input line 312
-.
+ <./photo/s2.jpg> <./photo/ke2.jpg>]
+<img/P2I2.pdf, id=309, pagebox=cropbox, 341.0592pt x 183.4333pt>
+File: img/P2I2.pdf Graphic file (type pdf)
+<use img/P2I2.pdf>
+Package pdftex.def Info: img/P2I2.pdf  used on input line 400. on input line 40
+0.
 Package pdftex.def Info: Requested size: 341.05836pt x 183.43285pt on input lin
-e 312.
+e 400.
 
-Overfull \hbox (5.31573pt too wide) in paragraph at lines 312--312
+Overfull \hbox (5.31573pt too wide) in paragraph at lines 400--400
  [] 
  []
 
-[16
+[15
 
- <./img/P2I.pdf>]
-<img/P2P.pdf, id=323, pagebox=cropbox, 335.81662pt x 274.23254pt>
+ <./img/P2I2.pdf>]
+<img/P2P.pdf, id=331, pagebox=cropbox, 335.81662pt x 274.23254pt>
 File: img/P2P.pdf Graphic file (type pdf)
 <use img/P2P.pdf>
-Package pdftex.def Info: img/P2P.pdf  used on input line 320. on input line 320
+Package pdftex.def Info: img/P2P.pdf  used on input line 408. on input line 408
 .
 Package pdftex.def Info: Requested size: 235.01881pt x 191.91962pt on input lin
-e 320.
- [17
+e 408.
+ [16
 
- <./img/P2P.pdf>] [18
+ <./img/P2P.pdf>] [17
 
-] [19
+] [18
 
 ]
 \tf@nav=\write6
@@ -1888,43 +1909,41 @@ e 320.
 \tf@snm=\write8
 \openout8 = `report.snm'.
 
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 347.
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 347.
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 437.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 437.
  (./report.aux)
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 347.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 347.
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 437.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 437.
 Package rerunfilecheck Info: File `report.out' has not changed.
-(rerunfilecheck)             Checksum: C13DDB94D3A4393EE3539357F51796DE;4847.
-
-
-LaTeX Font Warning: Some font shapes were not available, defaults substituted.
-
+(rerunfilecheck)             Checksum: 77A47F6E227BC7C1FFA3182BB6836028;4579.
  ) 
 Here is how much of TeX's memory you used:
- 35905 strings out of 492985
- 808605 string characters out of 6138637
- 993290 words of memory out of 5000000
- 38655 multiletter control sequences out of 15000+600000
+ 35915 strings out of 492985
+ 808776 string characters out of 6138637
+ 993291 words of memory out of 5000000
+ 38662 multiletter control sequences out of 15000+600000
  15629 words of font info for 38 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 79i,11n,131p,814b,645s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 79i,11n,131p,814b,659s stack positions out of 5000i,500n,10000p,200000b,80000s
 {/usr/share/texmf-dist/fonts/enc/dvips/cm-super/cm-super-t2a.enc}</usr/share/
 texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb></usr/share/texmf-dist/fon
-ts/type1/public/amsfonts/cm/cmr10.pfb></usr/share/texmf-dist/fonts/type1/public
-/amsfonts/cm/cmr7.pfb></usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cms
-y10.pfb></usr/share/texmf-dist/fonts/type1/public/cm-super/sfrm1000.pfb></usr/s
-hare/texmf-dist/fonts/type1/public/cm-super/sfss0500.pfb></usr/share/texmf-dist
-/fonts/type1/public/cm-super/sfss0900.pfb></usr/share/texmf-dist/fonts/type1/pu
-blic/cm-super/sfss1000.pfb></usr/share/texmf-dist/fonts/type1/public/cm-super/s
-fss1200.pfb></usr/share/texmf-dist/fonts/type1/public/cm-super/sfss1440.pfb></u
-sr/share/texmf-dist/fonts/type1/public/cm-super/sfss2488.pfb></usr/share/texmf-
-dist/fonts/type1/public/cm-super/sfsx0800.pfb></usr/share/texmf-dist/fonts/type
-1/public/cm-super/sfsx1000.pfb></usr/share/texmf-dist/fonts/type1/public/cm-sup
-er/sfsx1440.pfb>
-Output written on report.pdf (19 pages, 234657 bytes).
+ts/type1/public/amsfonts/cm/cmmi7.pfb></usr/share/texmf-dist/fonts/type1/public
+/amsfonts/cm/cmr10.pfb></usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cm
+r5.pfb></usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmr7.pfb></usr/sha
+re/texmf-dist/fonts/type1/public/amsfonts/cm/cmss10.pfb></usr/share/texmf-dist/
+fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/share/texmf-dist/fonts/type1/pu
+blic/cm-super/sfrm1000.pfb></usr/share/texmf-dist/fonts/type1/public/cm-super/s
+fss0500.pfb></usr/share/texmf-dist/fonts/type1/public/cm-super/sfss0900.pfb></u
+sr/share/texmf-dist/fonts/type1/public/cm-super/sfss1000.pfb></usr/share/texmf-
+dist/fonts/type1/public/cm-super/sfss1200.pfb></usr/share/texmf-dist/fonts/type
+1/public/cm-super/sfss1440.pfb></usr/share/texmf-dist/fonts/type1/public/cm-sup
+er/sfss2488.pfb></usr/share/texmf-dist/fonts/type1/public/cm-super/sfsx0800.pfb
+></usr/share/texmf-dist/fonts/type1/public/cm-super/sfsx1000.pfb></usr/share/te
+xmf-dist/fonts/type1/public/cm-super/sfsx1440.pfb>
+Output written on report.pdf (18 pages, 1868096 bytes).
 PDF statistics:
- 414 PDF objects out of 1000 (max. 8388607)
- 339 compressed objects within 4 object streams
- 57 named destinations out of 1000 (max. 500000)
- 274 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 425 PDF objects out of 1000 (max. 8388607)
+ 344 compressed objects within 4 object streams
+ 54 named destinations out of 1000 (max. 500000)
+ 291 words of extra memory for PDF output out of 10000 (max. 10000000)
 
