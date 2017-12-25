@@ -47,16 +47,16 @@
 		] 
 		{P.tsv};
 
-		 \addlegendentry{Экспериментальные данные}
+		 % \addlegendentry{Экспериментальные данные}
 		    \addplot[draw=none] table[y={create col/linear regression={y=P}}] % compute a linear regression from the
 		    %input table
 		    {P_lin.tsv};
 
 
 		\addplot [samples=100, thick, dashed, domain=2.4:6, black] {\pgfplotstableregressiona*x+\pgfplotstableregressionb};
-		    \addlegendentry{%
-		        P=$\pgfmathprintnumber{\pgfplotstableregressiona} \cdot I
-		        \pgfmathprintnumber[print sign]{\pgfplotstableregressionb}$ Аппроксимация} %		
+		    % \addlegendentry{%
+		    %     P=$\pgfmathprintnumber{\pgfplotstableregressiona} \cdot I
+		    %     \pgfmathprintnumber[print sign]{\pgfplotstableregressionb}$ Аппроксимация} %		
 		    \end{axis}
 		\end{tikzpicture}	
 \end{document}

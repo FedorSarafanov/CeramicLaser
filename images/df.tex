@@ -22,6 +22,7 @@
         positioning
     }
 \usetikzlibrary{fadings,through}
+\usetikzlibrary{decorations.markings}
 \tikzset
     {
         media/.style={font={\footnotesize\sffamily}},
@@ -29,9 +30,12 @@
             decorate,decoration={snake,post length=1.4mm,amplitude=2mm,
                 segment length=1mm},thick},   
         light/.style={
-            magenta, thick
+            magenta, line width=0.6pt
         },                   
     }
+\tikzset{->-/.style={decoration={
+  markings,
+  mark=at position #1 with {\arrow{>}}},postaction={decorate}}}
 \newcommand{\lineann}[5][0.5]{%
     \begin{scope}[rotate=#2, black,inner sep=2pt, ]
         \draw[dashed, blue!40] (0,0) -- +(0,#1)
@@ -41,6 +45,7 @@
         \draw[|<->|] (a) -- node[fill=#5,  scale=1.1] {#4} (b);
     \end{scope}
 }
+\input{tikz.tex}
 \begin{document}
 \begin{tikzpicture}
     \xdef\darkness{0}
@@ -55,33 +60,77 @@
     \draw[fill=gray!50, draw=none] (3,1) rectangle (4.5,6);
     \draw[fill=gray!25, draw=none, xshift=2.5cm] (2,1) rectangle (3,6);    
 
+    \draw [interface] (5.5,1) rectangle ++(0.5,5);
+
     \def\iangle{20}
     \def\angle{35}
-    \draw[light, yshift=1cm] 
+    \draw[light,dashed, yshift=0.26cm,->-=0.5] 
         (1,5) -- 
-        (2,4) coordinate (A*)
-        %
+        (2,4);      
+    \draw[light,dashed, yshift=0.20cm,->-=0.5] 
+        (2,4) -- ++ (-1,-1)
+        ;            
+    \begin{scope}[yshift=-2.1cm]
+    \draw[light,dashed, yshift=0.26cm,->-=0.5] 
+        (1,5) -- 
+        (2,4);      
+    \draw[light,dashed, yshift=0.20cm,->-=0.5] 
+        (2,4) -- ++ (-1,-1)
+        ;               
+    \end{scope}   
+    \begin{scope}[yshift=-2.83cm]
+    \draw[light,dashed, yshift=0.26cm,->-=0.5] 
+        (1,5) -- 
+        (2,4);      
+    \draw[light,dashed, yshift=0.20cm,->-=0.5] 
+        (2,4) -- ++ (-1,-1)
+        ;               
+    \end{scope}       
+    \draw[light, yshift=1cm,->-=0.5] 
+        (1,5) -- 
+        (2,4) coordinate (A*);     
+    \draw[light, ->-=0.5, yshift=1cm] 
         (A*) --
-        ++(-\iangle:{1/cos(\iangle)}) coordinate (A) --
-        ++(-\angle:{1.5/cos(\angle)}) coordinate (C)
+        ++(-\iangle:{1/cos(\iangle)}) coordinate (A);
+    \draw[light, ->-=0.5, yshift=1cm] 
         (A) --
-        ++(180+\iangle:{1/cos(\iangle)}) coordinate (B)
+        ++(-\angle:{1.5/cos(\angle)}) coordinate (C);
+    \draw[light, ->-=0.5, yshift=1cm]         
+        (A) --
+        ++(180+\iangle:{1/cos(\iangle)}) coordinate (B);
+    \draw[light, ->-=0.5, yshift=1cm]         
         (B) -- 
-        ++(180+45:{sqrt(2)})
+        ++(180+45:{sqrt(2)});
+    \draw[light,->-=0.5, yshift=1cm]         
         (C) -- 
-        ++(180+\angle:{1.5/cos(\angle)}) --  
-        ++(180+\iangle:{1/cos(\iangle)}) --
-        ++(180+45:{sqrt(2)})        
+        ++(180+\angle:{1.5/cos(\angle)}) coordinate (*) ;
+    \draw[light,->-=0.5, yshift=1cm]         
+        (*)--  
+        ++(180+\iangle:{1/cos(\iangle)})  coordinate (**) 
+;
+    \draw[light,->-=0.5, yshift=1cm]          
+        (**)--++(180+45:{sqrt(2)})  
+;
+    \draw[light,->-=0.5, yshift=1cm]                
         (A*) -- 
         ++(180+45:{sqrt(2)})
-        %                
+        %       
+;
+    \draw[light,->-=0.5, yshift=1cm]                   
         (C) --
-        ++(-\iangle:{1/cos(\iangle)}) coordinate (A) 
+        ++(-\iangle:{1/cos(\iangle)}) coordinate (A);
+    ;\draw[light,->-=0.5, yshift=1cm]                   
+        (A) 
         --
-        ++(180+\iangle:{1/cos(\iangle)}) 
-        -- 
-        ++(180+\angle:{1.5/cos(\angle)}) --
-        ++(180+\iangle:{1/cos(\iangle)}) --
+        ++(180+\iangle:{1/cos(\iangle)}) coordinate (*)
+        ;\draw[light,->-=0.5, yshift=1cm]                   
+        (*)-- 
+        ++(180+\angle:{1.5/cos(\angle)}) coordinate (**) 
+        ;\draw[light,->-=0.5, yshift=1cm]                   
+        (**)--
+        ++(180+\iangle:{1/cos(\iangle)}) coordinate (***) 
+        ;\draw[light,->-=0.5, yshift=1cm]                   
+        (***) --
         ++(180+45:{sqrt(2)})               
         ;
 
